@@ -20,3 +20,11 @@ From the table above, we can see that:
 
 
     - y = 1x + 1
+
+# 🙏 Thank You for Reading!
+
+I hope you were able to learn a thing or two from my project.
+
+Below is a link to learn more about this topic:
+
+[Learn More About Linear Equations](https://mathbitsnotebook.com/Algebra2/FunctionGraphs/LQFgraph1.gif)
